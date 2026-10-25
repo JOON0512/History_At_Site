@@ -1,0 +1,326 @@
+# key|name|country or geographic label|latitude|longitude|precision
+seoul|서울|대한민국|37.5665|126.978|city
+paju|파주|대한민국|37.76|126.78|city
+busan|부산|대한민국|35.18|129.08|city
+korean-peninsula|한반도|한반도|37.9|127.5|region
+panmunjom|판문점|한반도|37.956|126.677|city
+jeju|제주|대한민국|33.38|126.55|region
+korean-countryside|한국 농촌|대한민국|36.4|127.7|region
+heungnam|흥남|북한|39.83|127.62|city
+gyeonggi|경기도|대한민국|37.45|127.2|region
+miryang|밀양|대한민국|35.5|128.75|city
+gangwon|강원 지역|대한민국|37.8|128.3|region
+shanghai|상하이|중국|31.23|121.47|city
+heuksan|흑산도|대한민국|34.68|125.43|region
+namhansanseong|남한산성|대한민국|37.478|127.18|city
+myeongnyang|명량 해협|대한민국|34.569|126.308|region
+hansan|한산도 앞바다|대한민국|34.78|128.45|region
+noryang|노량 해협|대한민국|34.95|127.88|region
+bongodong|봉오동|중국|43.31|129.73|region
+longjing|룽징 · 북간도|중국|42.77|129.43|region
+kyoto|교토|일본|35.01|135.77|city
+hokkaido|홋카이도|일본|43.06|141.35|region
+korean-mountains|한국 산촌|대한민국|36.85|128.1|region
+tokyo|도쿄|일본|35.6762|139.6503|city
+onomichi|오노미치|일본|34.41|133.2|city
+kamakura|가마쿠라|일본|35.32|139.55|city
+japan-coast|일본의 해안 마을|일본|34.35|136.75|region
+japanese-countryside|일본 농촌|일본|35.7|138.2|region
+yokohama|요코하마|일본|35.44|139.64|city
+japanese-mountains|일본 산악 지역|일본|36.4|137.9|region
+yamanashi|야마나시|일본|35.66|138.57|region
+lake-biwa|비와호|일본|35.25|136.08|region
+kyoto-prefecture|교토부 · 단고 지역|일본|35.54|135.2|region
+kobe|고베|일본|34.69|135.2|city
+kure|구레|일본|34.25|132.57|city
+hiroshima|히로시마|일본|34.39|132.46|city
+nagoya|나고야|일본|35.18|136.91|city
+yamagata|야마가타|일본|38.24|140.36|region
+saitama|사이타마|일본|35.85|139.4|region
+hida|히다 지역|일본|36.24|137.19|region
+tanegashima|다네가시마|일본|30.57|130.98|region
+yokosuka|요코스카|일본|35.28|139.67|city
+osaka|오사카|일본|34.69|135.5|city
+nevers|느베르|프랑스|46.99|3.16|city
+beijing|베이징|중국|39.9|116.41|city
+china-north|중국 북부|중국|37.2|114.1|region
+shanxi|산시성 · 산서|중국|37.3|112.4|region
+shandong|산둥|중국|36.5|118.3|region
+shaanxi|산시성 · 섬서|중국|35.7|108.9|region
+hebei|허베이|중국|38.05|114.5|region
+xian|시안 · 관중|중국|34.26|108.94|region
+china|중국 · 서사적 배경|중국|34|110|region
+fengjie|펑제 · 싼샤|중국|31.02|109.46|region
+fenyang|펀양|중국|37.27|111.78|city
+datong|다퉁|중국|40.08|113.3|city
+dongguan|둥관|중국|23.02|113.75|city
+chengdu|청두|중국|30.66|104.07|city
+tibet|티베트 고원|중국|31.5|89|region
+qinghai|칭하이 · 커커시리|중국|35.2|92.9|region
+taipei|타이베이|대만|25.03|121.57|city
+jiufen|지우펀|대만|25.109|121.845|city
+fengshan|펑산|대만|22.63|120.36|city
+pingxi|핑시 · 탄광 지역|대만|25.03|121.74|region
+penghu|펑후|대만|23.56|119.58|region
+kaohsiung|가오슝|대만|22.63|120.3|city
+new-york|뉴욕|미국|40.7128|-74.006|city
+hong-kong|홍콩|홍콩|22.3193|114.1694|city
+buenos-aires|부에노스아이레스|아르헨티나|-34.6037|-58.3816|city
+mudanjiang|무단장|중국|44.59|129.63|city
+bengal|벵골|인도|23.1|88.2|region
+varanasi|바라나시|인도|25.32|83.01|city
+kolkata|콜카타|인도|22.57|88.36|city
+delhi|델리|인도|28.61|77.21|city
+lucknow|러크나우|인도|26.85|80.95|city
+ahmedabad|아마다바드|인도|23.02|72.57|city
+gujarat|구자라트|인도|22.9|71.5|region
+uttar-pradesh|우타르프라데시|인도|26.7|80.2|region
+mumbai|뭄바이|인도|19.076|72.8777|city
+ratnagiri|라트나기리 해안|인도|16.99|73.31|region
+assam|아삼 · 인도 북동부|인도|26.2|92.9|region
+agra|아그라|인도|27.18|78.01|city
+rajasthan|라자스탄|인도|26.9|75.8|region
+bangladesh|방글라데시|방글라데시|23.8|90.3|region
+lahore|라호르|파키스탄|31.55|74.34|city
+sri-lanka|스리랑카|스리랑카|7.8|80.7|region
+mugu|무구|네팔|29.55|82.1|region
+dolpo|돌포|네팔|29.18|82.95|region
+lunana|루나나|부탄|28.07|89.97|region
+bhutan|부탄|부탄|27.5|90.4|region
+ho-chi-minh-city|호찌민시 · 사이공|베트남|10.82|106.63|city
+hanoi|하노이|베트남|21.03|105.85|city
+hoi-an|호이안|베트남|15.88|108.33|city
+singapore|싱가포르|싱가포르|1.35|103.82|city
+ipoh|이포|말레이시아|4.6|101.09|city
+tehran|테헤란|이란|35.6892|51.389|city
+medan|메단|인도네시아|3.59|98.67|city
+north-sumatra|북수마트라|인도네시아|2.6|99|region
+jakarta|자카르타|인도네시아|-6.21|106.85|city
+manila|마닐라|필리핀|14.6|120.98|city
+calapan|칼라판|필리핀|13.41|121.18|city
+isan|이산 · 태국 북동부|태국|16.3|103|region
+thailand-north|태국 북부|태국|18.8|99|region
+thailand|태국|태국|15|101|region
+koker|코케르|이란|37.06|49.41|city
+gilan|길란|이란|37.1|49.4|region
+iran-kurdistan|이란 쿠르드 지역|이란|35.8|46.8|region
+mazandaran|마잔다란|이란|36.5|52.3|region
+vienna|빈|오스트리아|48.2082|16.3738|city
+beirut|베이루트|레바논|33.89|35.5|city
+lebanon|레바논|레바논|34|35.9|region
+negev|네게브|이스라엘|30.9|34.8|region
+nablus|나블루스|팔레스타인|32.22|35.26|city
+west-bank|서안 지역|팔레스타인|31.95|35.3|region
+riyadh|리야드|사우디아라비아|24.71|46.68|city
+paris|파리|프랑스|48.8566|2.3522|city
+occitanie|옥시타니 · 프랑스 남부|프랑스|43.6|3.2|region
+france|프랑스|프랑스|46.6|2.3|region
+nantes|낭트|프랑스|47.22|-1.55|city
+cherbourg|셰르부르|프랑스|49.64|-1.62|city
+rochefort|로슈포르|프랑스|45.94|-0.96|city
+france-atlantic|프랑스 대서양 연안|프랑스|47.2|-2.2|region
+sologne|솔로뉴|프랑스|47.55|1.75|region
+le-havre|르아브르|프랑스|49.49|0.11|city
+seine|센강|프랑스|48.9|2.15|region
+rouen|루앙|프랑스|49.44|1.1|city
+lyon|리옹|프랑스|45.76|4.84|city
+france-countryside|프랑스 농촌|프랑스|47.2|2.1|region
+fontainebleau|퐁텐블로 주변|프랑스|48.4|2.7|region
+paris-banlieue|파리 외곽|프랑스|48.95|2.2|region
+brittany|브르타뉴|프랑스|48.2|-4.1|region
+rome|로마|이탈리아|41.9028|12.4964|city
+italy|이탈리아|이탈리아|42.5|12.7|region
+berlin|베를린|독일|52.52|13.4|city
+italy-spa|이탈리아의 온천 휴양지|이탈리아|43.8|10.9|region
+italy-countryside|이탈리아 전원|이탈리아|42.3|12.5|region
+rimini|리미니|이탈리아|44.07|12.57|city
+milan|밀라노|이탈리아|45.46|9.19|city
+sicily|시칠리아|이탈리아|37.6|14.0154|region
+venice|베네치아|이탈리아|45.44|12.34|city
+bergamo|베르가모|이탈리아|45.69|9.68|region
+emilia-romagna|에밀리아로마냐|이탈리아|44.6|10.8|region
+italian-island|이탈리아의 섬|이탈리아|40.7|14|region
+arezzo|아레초|이탈리아|43.46|11.88|city
+london|런던|영국|51.5074|-0.1278|city
+monaco|몬테카를로|모나코|43.74|7.43|city
+england|잉글랜드|영국|52|-1.5|region
+canterbury|캔터베리 · 켄트|영국|51.28|1.08|region
+aqaba|아카바|요르단|29.53|35.01|city
+damascus|다마스쿠스|시리아|33.51|36.29|city
+kanchanaburi|깐짜나부리|태국|14.02|99.53|region
+moscow|모스크바|러시아|55.76|37.62|city
+ural|우랄 지역|러시아|56.8|60|region
+kent|켄트|영국|51.25|0.7|region
+ireland|아일랜드|아일랜드|53.2|-8|region
+prussia|옛 프로이센 지역|중부 유럽|52.8|14.6|region
+florence|피렌체|이탈리아|43.77|11.26|city
+hertfordshire|하트퍼드셔|영국|51.81|-0.24|region
+derbyshire|더비셔|영국|53.1|-1.6|region
+devon|데번|영국|50.72|-3.8|region
+dunkirk|됭케르크|프랑스|51.03|2.38|city
+arras|아라스 · 서부전선|프랑스|50.29|2.78|region
+county-durham|더럼 탄광 지역|영국|54.75|-1.55|region
+barnsley|반즐리|영국|53.55|-1.48|city
+newcastle|뉴캐슬|영국|54.98|-1.61|city
+cork|코크|아일랜드|51.9|-8.47|region
+dublin|더블린|아일랜드|53.35|-6.26|city
+ireland-west|아일랜드 서부의 섬|아일랜드|53.15|-9.6|region
+edinburgh|에든버러|영국|55.95|-3.19|city
+scottish-coast|스코틀랜드 해안|영국|57.6|-5.5|region
+liverpool|리버풀|영국|53.41|-2.98|city
+belfast|벨파스트|영국|54.6|-5.93|city
+wales|웨일스|영국|51.8|-3.7|region
+spain-north|스페인 북부|스페인|42.5|-3.5|region
+castile|카스티야|스페인|41.2|-3.4|region
+la-mancha|라만차|스페인|39.1|-3.3|region
+madrid|마드리드|스페인|40.42|-3.7|city
+barcelona|바르셀로나|스페인|41.39|2.17|city
+valencia|발렌시아 지역|스페인|39.2|-0.6|region
+galicia|갈리시아|스페인|42.7|-8.4|region
+catalonia|카탈루냐|스페인|42.1|2.6|region
+alcarras|알카라스|스페인|41.57|0.52|city
+lisbon|리스본|포르투갈|38.72|-9.14|city
+mozambique|모잠비크|모잠비크|-18.7|35.5|region
+gdansk|그단스크 · 단치히|폴란드|54.35|18.65|city
+germany-north|독일 북부|독일|53.2|11|region
+central-europe|중부 유럽 · 가상 국가의 영감|중부 유럽|50|14|inspiration
+sweden|스웨덴|스웨덴|56.3|13.6|region
+stockholm|스톡홀름|스웨덴|59.33|18.07|city
+lund|룬드|스웨덴|55.7|13.19|city
+uppsala|웁살라|스웨덴|59.86|17.64|city
+smaland|스몰란드|스웨덴|56.8|15|region
+jutland|유틀란트|덴마크|56.8|8.7|region
+copenhagen|코펜하겐|덴마크|55.68|12.57|city
+oslo|오슬로|노르웨이|59.91|10.75|city
+helsinki|헬싱키|핀란드|60.17|24.94|city
+iceland|아이슬란드|아이슬란드|64.8|-18.7|region
+poland|폴란드|폴란드|52|19|region
+krakow|크라쿠프|폴란드|50.06|19.94|city
+warsaw|바르샤바|폴란드|52.2297|21.0122|city
+geneva|제네바|스위스|46.2|6.14|city
+la-rochelle|라로셸|프랑스|46.16|-1.15|city
+slovakia|슬로바키아|슬로바키아|49|21.1|region
+czechia|체코|체코|49.8|15.5|region
+auschwitz|오시비엥침 · 아우슈비츠|폴란드|50.03|19.2|region
+vladimir|블라디미르 · 중세 러시아|러시아|56.13|40.41|region
+romania|루마니아|루마니아|46|25|region
+bucharest|부쿠레슈티|루마니아|44.43|26.1|city
+wallachia|왈라키아|루마니아|44.7|25|region
+anatolia|아나톨리아|튀르키예|39.3|34.7|region
+cappadocia|카파도키아|튀르키예|38.65|34.85|region
+istanbul|이스탄불|튀르키예|41.01|28.98|city
+turkey-black-sea|튀르키예 흑해 연안|튀르키예|41.3|33.2|region
+hamburg|함부르크|독일|53.55|10|city
+dakar|다카르|세네갈|14.69|-17.45|city
+antibes|앙티브|프랑스|43.58|7.12|city
+burkina-faso|부르키나파소|부르키나파소|12.3|-1.5|region
+colobane|콜로반|세네갈|14.7|-17.44|region
+thiaroye|티아로예|세네갈|14.75|-17.36|region
+mali|말리|말리|13|-6|region
+bamako|바마코|말리|12.64|-8|city
+luanda|루안다|앙골라|-8.84|13.23|city
+algiers|알제|알제리|36.75|3.06|city
+cairo|카이로|이집트|30.04|31.24|city
+alexandria|알렉산드리아|이집트|31.2|29.92|city
+luxor|룩소르 · 테베|이집트|25.69|32.64|region
+tunis|튀니스|튀니지|36.81|10.18|city
+tunisia-south|튀니지 남부|튀니지|32.95|10.4|region
+casablanca|카사블랑카|모로코|33.57|-7.59|city
+johannesburg|요하네스버그|남아프리카공화국|-26.2|28.04|city
+kwazulu-natal|콰줄루나탈|남아프리카공화국|-28.5|30.8|region
+kigali|키갈리|르완다|-1.94|30.06|city
+nairobi|나이로비|케냐|-1.2921|36.8219|city
+kampala|캄팔라 · 카트웨|우간다|0.3|32.58|city
+zambia|잠비아|잠비아|-14.5|28.3|region
+lesotho|레소토|레소토|-29.5|28.3|region
+ethiopia|에티오피아|에티오피아|9|39.5|region
+abidjan|아비장|코트디부아르|5.36|-4.01|city
+havana|아바나|쿠바|23.11|-82.37|city
+enniscorthy|에니스코시|아일랜드|52.5|-6.57|city
+los-angeles|로스앤젤레스|미국|34.05|-118.24|city
+orlando|올랜도 주변|미국|28.4|-81.5|region
+san-francisco|샌프란시스코|미국|37.77|-122.42|city
+sacramento|새크라멘토|미국|38.58|-121.49|city
+alabama|앨라배마|미국|32.3|-86.9|region
+louisiana|루이지애나|미국|30.5|-91.2|region
+selma|셀마|미국|32.41|-87.02|city
+montgomery|몽고메리|미국|32.37|-86.3|city
+georgia-us|조지아|미국|32.5|-83.5|region
+mississippi|미시시피|미국|32.7|-89.7|region
+american-south|미국 남부|미국|33.5|-86|region
+hampton|햄프턴 · 랭글리|미국|37.05|-76.36|region
+oklahoma|오클라호마|미국|35.5|-98|region
+california|캘리포니아|미국|35.8|-119.5|region
+texas-panhandle|텍사스 팬핸들|미국|35.2|-101.8|region
+texas|텍사스|미국|32|-99|region
+arizona|애리조나|미국|34.2|-111.5|region
+new-mexico|뉴멕시코|미국|34.5|-106|region
+missouri|미주리|미국|38.5|-92.5|region
+wyoming|와이오밍|미국|43|-107.5|region
+american-west|미국 서부|미국|39|-115|region
+arkansas|아칸소|미국|35|-92.4|region
+detroit|디트로이트|미국|42.33|-83.05|city
+dallas|댈러스|미국|32.78|-96.8|city
+pennsylvania|펜실베이니아|미국|40.4|-79.2|region
+vietnam|베트남|베트남|16|107.5|region
+massachusetts-coast|매사추세츠 해안|미국|42.58|-70.77|region
+boston|보스턴|미국|42.36|-71.06|city
+washington-dc|워싱턴 D.C.|미국|38.91|-77.04|city
+los-alamos|로스앨러모스|미국|35.88|-106.3|city
+jamestown|제임스타운|미국|37.21|-76.78|region
+great-plains|대평원|미국|43.7|-101|region
+miami|마이애미|미국|25.77|-80.19|city
+paterson|패터슨|미국|40.92|-74.17|city
+iowa|아이오와|미국|42|-93.4|region
+wisconsin|위스콘신|미국|44.5|-90|region
+nebraska|네브래스카|미국|41.5|-99.7|region
+minnesota|미네소타|미국|46|-94.5|region
+north-dakota|노스다코타|미국|47|-100|region
+changchun|장춘|중국|43.82|125.32|city
+bolivia-mennonite|볼리비아 · 이야기의 영감|볼리비아|-17|-63|inspiration
+montreal|몬트리올|캐나다|45.5|-73.57|city
+toronto|토론토|캐나다|43.65|-79.38|city
+british-columbia|브리티시컬럼비아|캐나다|52|-124|region
+igloolik|이글루릭|캐나다|69.38|-81.8|region
+quebec|퀘벡|캐나다|46.8|-71.3|region
+middle-east|중동 · 가상 국가의 영감|중동|33.8|36|inspiration
+cremona|크레모나|이탈리아|45.13|10.02|city
+mexico-city|멕시코시티|멕시코|19.4326|-99.1332|city
+oaxaca|오아하카 해안|멕시코|15.9|-96.3|region
+mexico-north|멕시코 북부|멕시코|27|-103|region
+argentina|아르헨티나|아르헨티나|-34|-64|region
+salta|살타|아르헨티나|-24.79|-65.41|region
+colombia-caribbean|콜롬비아 카리브 지역|콜롬비아|10|-74|region
+rio-de-janeiro|리우데자네이루|브라질|-22.9068|-43.1729|city
+brazil-northeast|브라질 북동부|브라질|-8|-39|region
+recife|헤시피|브라질|-8.05|-34.88|city
+sao-paulo|상파울루|브라질|-23.55|-46.63|city
+santiago|산티아고|칠레|-33.45|-70.67|city
+atacama|아타카마 사막|칠레|-23.9|-69.1|region
+patagonia-chile|칠레 파타고니아|칠레|-50|-74|region
+colombian-amazon|콜롬비아 아마존|콜롬비아|-1|-72|region
+la-guajira|라과히라|콜롬비아|11.4|-72.4|region
+lima|리마|페루|-12.05|-77.04|city
+montevideo|몬테비데오|우루과이|-34.9|-56.16|city
+kingston|킹스턴|자메이카|17.97|-76.79|city
+australian-outback|호주 아웃백|호주|-24|134|region
+hanging-rock|행잉록|호주|-37.33|144.59|region
+new-south-wales|뉴사우스웨일스|호주|-32.5|147|region
+arnhem-land|아넘랜드|호주|-12.5|134.5|region
+northern-territory|노던테리토리|호주|-20|133.5|region
+alice-springs|앨리스스프링스|호주|-23.7|133.88|city
+victoria|빅토리아|호주|-36.7|145|region
+melbourne|멜버른|호주|-37.81|144.96|city
+sydney|시드니|호주|-33.87|151.21|city
+queensland|퀸즐랜드|호주|-25.5|150|region
+whangara|왕가라|뉴질랜드|-38.57|178.21|region
+waihau-bay|와이하우베이|뉴질랜드|-37.61|177.91|region
+auckland|오클랜드|뉴질랜드|-36.85|174.76|city
+new-zealand-north|뉴질랜드 북섬|뉴질랜드|-38.5|175.7|region
+christchurch|크라이스트처치|뉴질랜드|-43.53|172.64|city
+otago|오타고|뉴질랜드|-45|169.5|region
+samoa|사모아|사모아|-13.8|-172|region
+tanna|탄나섬|바누아투|-19.5|169.3|region
+germany|독일|독일|50.5|10|region
+oxford|옥스퍼드|영국|51.75|-1.26|city
+korean-small-town|한국 소도시|대한민국|36.3|127.8|region

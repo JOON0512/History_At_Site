@@ -1,0 +1,9 @@
+project_id = "history-at-site"
+
+[functions.identity-session]
+verify_jwt = true
+
+# External provider; full-payload HMAC, timestamp and session binding are
+# validated inside the handler before any identity result can be recorded.
+[functions.didit-webhook]
+verify_jwt = false
